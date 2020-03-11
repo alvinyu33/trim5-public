@@ -3,9 +3,9 @@
 
 This repository contains the CG models for: "TRIM5alpha Self-Assembly and Compartmentalization of the HIV-1 Viral Capsid"
 
-Please cite: Yu A, Skorupka KA, Pak AJ, Ganser-Pornillos BK, Pornillos O, Voth GA (update citation)
+Please cite: Yu, A., Skorupka, K.A., Pak, A.J., Ganser-Pornillos, B.K., Pornillos, O., Voth, G.A. *Nat. Commun.* **11** ,1307 (2020)
+https://doi.org/10.1038/s41467-020-15106-1
 
-To be released upon publication:
 |            Files             |                   Description                 |
 |------------------------------|-----------------------------------------------|
 | cg_capsid_core1.pdb          | Coarse-grained model of the CA capsid core    |
